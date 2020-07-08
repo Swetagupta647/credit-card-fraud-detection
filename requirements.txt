@@ -106,8 +106,3 @@ wincertstore==0.2
 wrapt==1.12.1
 xgboost==1.1.1
 yapf==0.30.0
-<<<<<<< HEAD
-zipp==3.1.0
-=======
-zipp==3.1.0
->>>>>>> f4d290d2f914ca60881b034d45c1e46bdec48ab6
