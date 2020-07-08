@@ -25,10 +25,8 @@ Flask==1.1.2
 helpdev==0.7.1
 idna==2.10
 imagesize==1.2.0
-importlib-metadata @ file:///C:/ci/importlib-metadata_1593431910144/work
 intervaltree==3.0.2
 ipykernel==5.3.0
-ipython @ file:///C:/ci/ipython_1593446240034/work
 ipython-genutils==0.2.0
 isort==4.3.21
 itsdangerous==1.1.0
@@ -45,7 +43,6 @@ MarkupSafe==1.1.1
 matplotlib==3.2.2
 mccabe==0.6.1
 mistune==0.8.4
-nb-conda-kernels==2.2.3
 nbconvert==5.6.1
 nbformat==5.0.7
 notebook==6.0.3
@@ -75,19 +72,6 @@ pyparsing==2.4.7
 PyQt5==5.12.3
 PyQt5-sip==12.8.0
 PyQtWebEngine==5.12.1
-pyrsistent==0.16.0
-python-dateutil==2.8.1
-python-jsonrpc-server==0.3.4
-python-language-server==0.31.10
-pytz==2020.1
-pywin32==227
-pywin32-ctypes==0.2.0
-pywinpty==0.5.7
-pyzmq==19.0.1
-QDarkStyle==2.8.1
-QtAwesome==0.7.2
-qtconsole==4.7.5
-QtPy==1.9.0
 requests==2.24.0
 rope==0.17.0
 scikit-learn==0.23.1
@@ -115,7 +99,6 @@ traitlets==4.3.3
 typed-ast==1.4.1
 urllib3==1.25.9
 watchdog==0.10.3
-wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 webencodings==0.5.1
 Werkzeug==1.0.1
 wincertstore==0.2
